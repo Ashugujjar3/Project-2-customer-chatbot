@@ -1,5 +1,5 @@
 ## Project-2
-## 🧩 Repository 2 — `Customer-Support-Chatbot`
+## `Customer-Support-Chatbot`
 
 ```markdown
 # 💬 Customer Support Chatbot
